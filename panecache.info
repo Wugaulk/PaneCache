@@ -1,0 +1,9 @@
+name = Ctools Plugin Pane Cache
+description = Ctools Plugin (cache). 
+core = 7.x
+package = DaChainrk Ctools
+dependencies[] = ctools
+
+files[] = plugins/cache/panecache.inc
+; Original: panels_gang_cache.inc
+date = "2015.08.9"
